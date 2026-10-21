@@ -4,7 +4,7 @@ Sorts a list of names by last name, then by given names. The result is printed t
 
 ## Requirements
 
-[.NET 9 SDK](https://dotnet.microsoft.com/download) or later.
+[.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ## Usage
 
